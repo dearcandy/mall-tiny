@@ -1,4 +1,4 @@
-package com.trae.mall.malltiny;
+package com.trae.mall.tiny;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
